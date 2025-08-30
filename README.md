@@ -48,7 +48,9 @@ Vague or incomplete instructions.
 Example: “Tell me something about finance.”
 
 ## Output
-[Exp2 (1).pdf](https://github.com/user-attachments/files/22057231/Exp2.1.pdf)
+
+[Exp2.pdf](https://github.com/user-attachments/files/22057289/Exp2.pdf)
+
 
 
 ## Result
